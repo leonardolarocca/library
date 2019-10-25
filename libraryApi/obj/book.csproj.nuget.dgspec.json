@@ -1,0 +1,80 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/larocca/Downloads/book/book/book.csproj": {}
+  },
+  "projects": {
+    "/Users/larocca/Downloads/book/book/book.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/larocca/Downloads/book/book/book.csproj",
+        "projectName": "book",
+        "projectPath": "/Users/larocca/Downloads/book/book/book.csproj",
+        "packagesPath": "/Users/larocca/.nuget/packages/",
+        "outputPath": "/Users/larocca/Downloads/book/book/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/larocca/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "FluentNHibernate": {
+              "target": "Package",
+              "version": "[2.1.2, )"
+            },
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.1, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.2, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "NHibernate": {
+              "target": "Package",
+              "version": "[5.2.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
