@@ -1,0 +1,43 @@
+C:/Users/leonardo.larocca/Documents/projects/Nova pasta/Library/libraryApi/bin/Debug/netcoreapp2.1/libraryApi.deps.json
+C:/Users/leonardo.larocca/Documents/projects/Nova pasta/Library/libraryApi/bin/Debug/netcoreapp2.1/libraryApi.runtimeconfig.json
+C:/Users/leonardo.larocca/Documents/projects/Nova pasta/Library/libraryApi/bin/Debug/netcoreapp2.1/libraryApi.runtimeconfig.dev.json
+C:/Users/leonardo.larocca/Documents/projects/Nova pasta/Library/libraryApi/bin/Debug/netcoreapp2.1/libraryApi.dll
+C:/Users/leonardo.larocca/Documents/projects/Nova pasta/Library/libraryApi/obj/Debug/netcoreapp2.1/libraryApi.csproj.CoreCompileInputs.cache
+C:/Users/leonardo.larocca/Documents/projects/Nova pasta/Library/libraryApi/obj/Debug/netcoreapp2.1/libraryApi.RazorAssemblyInfo.cache
+C:/Users/leonardo.larocca/Documents/projects/Nova pasta/Library/libraryApi/obj/Debug/netcoreapp2.1/libraryApi.RazorAssemblyInfo.cs
+C:/Users/leonardo.larocca/Documents/projects/Nova pasta/Library/libraryApi/obj/Debug/netcoreapp2.1/libraryApi.AssemblyInfoInputs.cache
+C:/Users/leonardo.larocca/Documents/projects/Nova pasta/Library/libraryApi/obj/Debug/netcoreapp2.1/libraryApi.AssemblyInfo.cs
+C:/Users/leonardo.larocca/Documents/projects/Nova pasta/Library/libraryApi/obj/Debug/netcoreapp2.1/libraryApi.RazorTargetAssemblyInfo.cache
+C:/Users/leonardo.larocca/Documents/projects/Nova pasta/Library/libraryApi/bin/Debug/netcoreapp2.1/libraryApi.pdb
+C:/Users/leonardo.larocca/Documents/projects/Nova pasta/Library/libraryApi/obj/Debug/netcoreapp2.1/libraryApi.dll
+C:/Users/leonardo.larocca/Documents/projects/Nova pasta/Library/libraryApi/obj/Debug/netcoreapp2.1/libraryApi.pdb
+/Users/larocca/Downloads/Library/libraryApi/bin/Debug/netcoreapp2.1/appsettings.json
+/Users/larocca/Downloads/Library/libraryApi/bin/Debug/netcoreapp2.1/Properties/launchSettings.json
+/Users/larocca/Downloads/Library/libraryApi/bin/Debug/netcoreapp2.1/libraryApi.deps.json
+/Users/larocca/Downloads/Library/libraryApi/bin/Debug/netcoreapp2.1/libraryApi.runtimeconfig.json
+/Users/larocca/Downloads/Library/libraryApi/bin/Debug/netcoreapp2.1/libraryApi.runtimeconfig.dev.json
+/Users/larocca/Downloads/Library/libraryApi/bin/Debug/netcoreapp2.1/libraryApi.dll
+/Users/larocca/Downloads/Library/libraryApi/bin/Debug/netcoreapp2.1/libraryApi.pdb
+/Users/larocca/Downloads/Library/libraryApi/obj/Debug/netcoreapp2.1/libraryApi.csprojAssemblyReference.cache
+/Users/larocca/Downloads/Library/libraryApi/obj/Debug/netcoreapp2.1/libraryApi.RazorAssemblyInfo.cache
+/Users/larocca/Downloads/Library/libraryApi/obj/Debug/netcoreapp2.1/libraryApi.RazorAssemblyInfo.cs
+/Users/larocca/Downloads/Library/libraryApi/obj/Debug/netcoreapp2.1/libraryApi.AssemblyInfoInputs.cache
+/Users/larocca/Downloads/Library/libraryApi/obj/Debug/netcoreapp2.1/libraryApi.AssemblyInfo.cs
+/Users/larocca/Downloads/Library/libraryApi/obj/Debug/netcoreapp2.1/libraryApi.RazorTargetAssemblyInfo.cache
+/Users/larocca/Downloads/Library/libraryApi/obj/Debug/netcoreapp2.1/libraryApi.dll
+/Users/larocca/Downloads/Library/libraryApi/obj/Debug/netcoreapp2.1/libraryApi.pdb
+/Users/larocca/Projects/library/api/Library/libraryApi/bin/Debug/netcoreapp2.1/appsettings.json
+/Users/larocca/Projects/library/api/Library/libraryApi/bin/Debug/netcoreapp2.1/Properties/launchSettings.json
+/Users/larocca/Projects/library/api/Library/libraryApi/bin/Debug/netcoreapp2.1/libraryApi.deps.json
+/Users/larocca/Projects/library/api/Library/libraryApi/bin/Debug/netcoreapp2.1/libraryApi.runtimeconfig.json
+/Users/larocca/Projects/library/api/Library/libraryApi/bin/Debug/netcoreapp2.1/libraryApi.runtimeconfig.dev.json
+/Users/larocca/Projects/library/api/Library/libraryApi/bin/Debug/netcoreapp2.1/libraryApi.dll
+/Users/larocca/Projects/library/api/Library/libraryApi/bin/Debug/netcoreapp2.1/libraryApi.pdb
+/Users/larocca/Projects/library/api/Library/libraryApi/obj/Debug/netcoreapp2.1/libraryApi.csprojAssemblyReference.cache
+/Users/larocca/Projects/library/api/Library/libraryApi/obj/Debug/netcoreapp2.1/libraryApi.RazorAssemblyInfo.cache
+/Users/larocca/Projects/library/api/Library/libraryApi/obj/Debug/netcoreapp2.1/libraryApi.RazorAssemblyInfo.cs
+/Users/larocca/Projects/library/api/Library/libraryApi/obj/Debug/netcoreapp2.1/libraryApi.AssemblyInfoInputs.cache
+/Users/larocca/Projects/library/api/Library/libraryApi/obj/Debug/netcoreapp2.1/libraryApi.AssemblyInfo.cs
+/Users/larocca/Projects/library/api/Library/libraryApi/obj/Debug/netcoreapp2.1/libraryApi.RazorTargetAssemblyInfo.cache
+/Users/larocca/Projects/library/api/Library/libraryApi/obj/Debug/netcoreapp2.1/libraryApi.dll
+/Users/larocca/Projects/library/api/Library/libraryApi/obj/Debug/netcoreapp2.1/libraryApi.pdb

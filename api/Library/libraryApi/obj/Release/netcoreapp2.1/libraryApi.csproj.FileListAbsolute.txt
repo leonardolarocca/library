@@ -1,0 +1,14 @@
+C:\Users\leonardo.larocca\Documents\projects\Nova pasta\Library\libraryApi\bin\Release\netcoreapp2.1\libraryApi.deps.json
+C:\Users\leonardo.larocca\Documents\projects\Nova pasta\Library\libraryApi\bin\Release\netcoreapp2.1\libraryApi.runtimeconfig.json
+C:\Users\leonardo.larocca\Documents\projects\Nova pasta\Library\libraryApi\bin\Release\netcoreapp2.1\libraryApi.runtimeconfig.dev.json
+C:\Users\leonardo.larocca\Documents\projects\Nova pasta\Library\libraryApi\bin\Release\netcoreapp2.1\libraryApi.dll
+C:\Users\leonardo.larocca\Documents\projects\Nova pasta\Library\libraryApi\bin\Release\netcoreapp2.1\libraryApi.pdb
+C:\Users\leonardo.larocca\Documents\projects\Nova pasta\Library\libraryApi\obj\Release\netcoreapp2.1\libraryApi.csprojAssemblyReference.cache
+C:\Users\leonardo.larocca\Documents\projects\Nova pasta\Library\libraryApi\obj\Release\netcoreapp2.1\libraryApi.csproj.CoreCompileInputs.cache
+C:\Users\leonardo.larocca\Documents\projects\Nova pasta\Library\libraryApi\obj\Release\netcoreapp2.1\libraryApi.RazorAssemblyInfo.cache
+C:\Users\leonardo.larocca\Documents\projects\Nova pasta\Library\libraryApi\obj\Release\netcoreapp2.1\libraryApi.RazorAssemblyInfo.cs
+C:\Users\leonardo.larocca\Documents\projects\Nova pasta\Library\libraryApi\obj\Release\netcoreapp2.1\libraryApi.AssemblyInfoInputs.cache
+C:\Users\leonardo.larocca\Documents\projects\Nova pasta\Library\libraryApi\obj\Release\netcoreapp2.1\libraryApi.AssemblyInfo.cs
+C:\Users\leonardo.larocca\Documents\projects\Nova pasta\Library\libraryApi\obj\Release\netcoreapp2.1\libraryApi.RazorTargetAssemblyInfo.cache
+C:\Users\leonardo.larocca\Documents\projects\Nova pasta\Library\libraryApi\obj\Release\netcoreapp2.1\libraryApi.dll
+C:\Users\leonardo.larocca\Documents\projects\Nova pasta\Library\libraryApi\obj\Release\netcoreapp2.1\libraryApi.pdb
