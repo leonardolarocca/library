@@ -33,6 +33,7 @@ namespace libraryApi
             if (env.IsDevelopment())
             {
                 app.UseDeveloperExceptionPage();
+                app.UseCors(options => options.AllowAnyMethod().AllowAnyOrigin().AllowAnyHeader());
             }
 
             app.UseMvc();
