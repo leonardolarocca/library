@@ -9,16 +9,25 @@ export function* fetchBooks () {
 
 export function* deleteBook (action) {
   const { data } = action
-
+  
   yield call(bookService.destroy, data.id)
   yield call(fetchBooks)
 }
 
 export function* insertBook (action) {
   try {
-    const { data } = action
-  
+    const { data } = action      
     yield call(bookService.create, data)  
+  } catch (err) {
+    console.log(err)
+  }
+}
+
+export function* editBook (action) {
+  try {
+    const { data } = action
+
+    yield call(bookService.edit, data.id)
   } catch (err) {
     console.log(err)
   }

@@ -1,4 +1,4 @@
-import { FETCH_BOOKS, LOAD_BOOKS, DELETE_BOOK, INSERT_BOOK } from './actionTypes'
+import { FETCH_BOOKS, LOAD_BOOKS, DELETE_BOOK, INSERT_BOOK, EDIT_BOOK } from './actionTypes'
 
 export const fetchBooks = () => {
   return { type: FETCH_BOOKS }
@@ -14,4 +14,8 @@ export const deleteBook = (id) => {
 
 export const insertBook = (data) => {
   return { type: INSERT_BOOK, data}
+}
+
+export const editBook = (data) => {
+  return { type: EDIT_BOOK, data}
 }

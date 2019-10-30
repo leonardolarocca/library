@@ -26,6 +26,8 @@ class Book extends React.Component {
     )
   }
 
+
+
   renderTableData(books) {
     return books.map((book, i) => {
       return (
@@ -37,7 +39,7 @@ class Book extends React.Component {
             <td>{book.numberOfPages}</td>
             <td>{book.publishCompany}</td>
             <CommandColumn>
-              <Button size="sm" variant="outline-secondary">Edit</Button>
+              <Link to="/bookForm" params={{id:book.id}}>Edit</Link>
               <Button onClick={() => this.props.deleteBook(book.id)} size="sm" variant="outline-danger">Delete</Button>
             </CommandColumn>
           </tr>

@@ -9,7 +9,15 @@ const destroy = (id) => {
 }
 
 const create = (data) => {
-  return axios.post('http://localhost:5000/api/v1/library/book', data)
+  return axios.post('http://localhost:5000/api/v1/library/book/', data)
 }
 
-export default { list, destroy, create }
+const edit = (data) => {
+  return axios.put(`http://localhost:5000/api/v1/library/book/${data.id}`, data)
+}
+
+const load = (id) => {
+  return axios.get(`http://localhost:5000/api/v1/library/book/${id}`)
+}
+
+export default { list, destroy, create, load, edit}

@@ -2,12 +2,12 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="libraryApi/Repository/RepositoryBase.cs">
     <Files>
       <File FileName="libraryApi/appsettings.json" Line="7" Column="20" />
-      <File FileName="libraryApi/Program.cs" Line="1" Column="1" />
+      <File FileName="libraryApi/Program.cs" />
       <File FileName="libraryApi/Repository/RepositoryBase.cs" Line="11" Column="1" />
-      <File FileName="libraryApi/Controllers/BookController.cs" Line="38" Column="1" />
-      <File FileName="libraryApi/Startup.cs" Line="36" Column="99" />
-      <File FileName="libraryApi/Repository/Interfaces/IRepositoryBase.cs" Line="1" Column="1" />
-      <File FileName="libraryApi/Repository/BookRepository.cs" Line="1" Column="1" />
+      <File FileName="libraryApi/Controllers/BookController.cs" />
+      <File FileName="libraryApi/Startup.cs" />
+      <File FileName="libraryApi/Repository/Interfaces/IRepositoryBase.cs" />
+      <File FileName="libraryApi/Repository/BookRepository.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
